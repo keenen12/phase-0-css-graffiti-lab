@@ -1,1 +1,30 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+background-color: aqua;
+}
+
+#wall .tag-2 {
+    background-color: darkolivegreen;
+
+}
+
+#wall .tag-3 {
+    display: none;
+}
+
+#wall .tag-4 {
+    padding: auto;
+}
+
+#wall .tag-5 {
+    background-position: 0%;
+}
+
+#wall .tag-6 {
+    background-size: auto;
+}
+
+#wall .tag-7 {
+    background-repeat: inherit;
+}
